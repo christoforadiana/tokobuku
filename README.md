@@ -13,5 +13,5 @@ Member kelompok
 - SB Admin 2 Template
 
 ### Keterangan <br/>
-Database : <code>new_tokobuku</code><br/>
+Database : <code>db_tokobuku</code><br/>
 <br/>
